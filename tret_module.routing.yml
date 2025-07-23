@@ -1,0 +1,10 @@
+tret_module.tret_form:
+  path: '/drupal10/web/tret/gerar'
+  defaults:
+    _controller: '\Drupal\tret_module\Controller\TretController::gerarTret'
+    _title: 'TRET Gerado'
+  requirements:
+    _permission: 'access content'
+  methods: [POST]
+
+  
