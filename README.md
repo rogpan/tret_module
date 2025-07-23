@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-O **TRET - Termo de Recebimento de Estação de Trabalho** é um módulo para **Drupal 10** desenvolvido para gerar um documento digital (em HTML formatado para impressão) contendo um termo de responsabilidade baseado nas normas de segurança da informação da Marinha do Brasil.
+O **TRET - Termo de Recebimento de Estação de Trabalho** é um módulo para **Drupal 10** desenvolvido para gerar um documento digital (em HTML formatado para impressão) contendo um termo de responsabilidade.
 
 O documento é preenchido dinamicamente por meio de um formulário e pode ser impresso diretamente pelo navegador. A estrutura é compatível com o formato A4 (21cm x 29.7cm), com fonte **Carlito** 10pt e espaçamento otimizado para caber em uma única página.
 
